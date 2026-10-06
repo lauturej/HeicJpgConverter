@@ -1,7 +1,7 @@
 {
-    "version":  "2.0",
+    "version":  "2.0.1",
     "releaseDate":  "2026-10-06",
-    "notes":  "Native Windows folder picker, one-click launcher, in-app updates. Download Update-HeicJpg.bat and double-click it to upgrade.",
+    "notes":  "Adds a desktop shortcut with the MN icon so the app is easy to find.",
     "downloadUrl":  "https://github.com/lauturej/HeicJpgConverter/releases/latest/download/Update-HeicJpg.bat",
-    "exeUrl":  "https://github.com/lauturej/HeicJpgConverter/releases/download/v2.0/HeicJpgWeb.exe"
+    "exeUrl":  "https://github.com/lauturej/HeicJpgConverter/releases/download/v2.0.1/HeicJpgWeb.exe"
 }
